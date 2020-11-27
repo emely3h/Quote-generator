@@ -1,0 +1,35 @@
+
+body{
+  margin: 0;
+text-align: center;
+}
+p{
+  font-size: 20px;
+
+}
+button{
+  margin: 100px;
+  border: none;
+  background-color: rgb(55, 159, 228);
+  border-radius: 20px;
+    padding: 15px 32px;
+    color: white;
+    font-size: 20px;
+
+}
+button:hover{
+  background-color: black;
+}
+.pKursiv{
+    font-style: italic;
+
+}
+.topDiv{
+  background: rgb(55, 159, 228);
+  color: #fff;
+  padding: 30px;
+  font-size: 30px;
+}
+.page-content{
+  margin-top: 100px;
+}
